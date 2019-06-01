@@ -1,4 +1,4 @@
-# CTCI
+# LinkedList
 
 Implementation of Linked List
 append functions adds node at the end of the linked list
