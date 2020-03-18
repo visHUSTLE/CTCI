@@ -1,6 +1,3 @@
-# LinkedList
+# Data Structures and Algorithms
 
-Implementation of Linked List
-append functions adds node at the end of the linked list
-prepend function adds node at the beginning of the linked list
-insert after node adds node at any point in the linked list 
+Here you can find implementation of certain algorithmic questions from Cracking the Coding Interview book, Hackerrank and Leetcode
